@@ -1,6 +1,6 @@
 # Exercise Performance Analysis using Data Mining Techniques
 
-## [Preview]()
+## [Exercise Performance Analysis Preview](https://kiran-karandikar.github.io/Exercise-performance-analysis/)
 
 ## Abstract
 Strength Training techniques have been used in tailored routines during personalized training programs for athletes. During recent times, there has been a shift from tried and tested to evidence-based training routines. But with more advancement in the field of ML and IOT, more companies like HUDL, LongoMatch are leveraging this domain to gain more insights into the field of sports and we think this will be the same in the field of Strength Training.
