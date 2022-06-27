@@ -1,3 +1,60 @@
+<div id="top"></div>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/kiran-karandikar/Exercise-performance-analysis?style=for-the-badge
+
+[contributors-url]: https://github.com/Kiran-Karandikar/Exercise-performance-analysis/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/Kiran-Karandikar/Exercise-performance-analysis?style=for-the-badge
+
+[forks-url]: https://github.com/Kiran-Karandikar/Exercise-performance-analysis/network
+
+[stars-shield]: https://img.shields.io/github/stars/Kiran-Karandikar/Exercise-performance-analysis?style=for-the-badge
+
+[stars-url]: https://github.com/Kiran-Karandikar/Exercise-performance-analysis/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/Kiran-Karandikar/Exercise-performance-analysis?style=for-the-badge
+
+[issues-url]: https://github.com/Kiran-Karandikar/Exercise-performance-analysis/issues
+
+[license-shield]: https://img.shields.io/github/license/Kiran-Karandikar/Exercise-performance-analysis?style=for-the-badge
+
+[license-url]: https://github.com/Kiran-Karandikar/Exercise-performance-analysis/blob/master/LICENSE
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://linkedin.com/in/kiran-karandikar
+
+---------
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<h3 align="center">Exercise-performance-analysis</h3>
+  <p align="center">
+    Prototype exercise volume prediction using machine learning models.    
+    <br />    
+    <a href="https://kiran-karandikar.github.io/Exercise-performance-analysis"><strong>Preview</strong></a>
+    <br />
+    <a href="https://github.com/kiran-karandikar/Exercise-performance-analysis"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/kiran-karandikar/Exercise-performance-analysis">View Demo</a>
+    ·
+    <a href="https://github.com/kiran-karandikar/Exercise-performance-analysis/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kiran-karandikar/Exercise-performance-analysis/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- BADGES.MD Finish -->
 # Exercise Performance Analysis using Data Mining Techniques
 
 ## [Exercise Performance Analysis Preview](https://kiran-karandikar.github.io/Exercise-performance-analysis/)
@@ -31,3 +88,25 @@ Able to predict, one’s progression in terms of workout volume helps in fine tu
 
 ##### In association with:
 - [Satyajeet Arun Sarfare](mailto:ssarfare@iu.edu)
+
+### Other projects
+
+Check out the other stuff I've worked upon.
+
+- ___AI/ML/Data Science___
+
+  - **AML-Home-Credit-Default-Risk** : [Predicting how capable each applicant is of repaying a loan \(Kaggle Challenge\).](https://github.com/Kiran-Karandikar/AML-Home-Credit-Default-Risk)
+
+  - **Exercise-performance-analysis** : [Prototype exercise volume prediction using machine learning models.](https://github.com/Kiran-Karandikar/Exercise-performance-analysis)
+
+- ___Web Development___
+
+  - **flask-app-template** : [Simple, reusable, minimalistic, configurable flask app.](https://github.com/Kiran-Karandikar/flask-app-template)
+
+  - **flask-oauth2-wrike-api** : [A sample Flask app to authenticate with Wrike as a third-party OAuth2 provider.](https://github.com/Kiran-Karandikar/flask-oauth2-wrike-api)
+
+> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions). 
+<!-- CONTACT -->
+## Contact
+
+- [Kiran Karandikar: khkarandikar at gmail dot com](mailto:khkarandikar@gmail.com)
