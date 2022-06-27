@@ -55,6 +55,7 @@
 </div>
 
 <!-- BADGES.MD Finish -->
+<!-- BADGES.MD Finish -->
 # Exercise Performance Analysis using Data Mining Techniques
 
 ## [Exercise Performance Analysis Preview](https://kiran-karandikar.github.io/Exercise-performance-analysis/)
@@ -88,6 +89,7 @@ Able to predict, one’s progression in terms of workout volume helps in fine tu
 
 ##### In association with:
 - [Satyajeet Arun Sarfare](mailto:ssarfare@iu.edu)
+
 
 ### Other projects
 
