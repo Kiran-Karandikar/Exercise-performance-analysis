@@ -33,6 +33,7 @@
 
 ---------
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -53,6 +54,7 @@
   </p>
 </div>
 
+<!-- BADGES.MD Finish -->
 <!-- BADGES.MD Finish -->
 
 # Exercise Performance Analysis using Data Mining Techniques
@@ -86,6 +88,7 @@ Able to predict, one’s progression in terms of workout volume helps in fine tu
 
 ##### In association with:
 - [Satyajeet Arun Sarfare](mailto:ssarfare@iu.edu)
+
 
 
 ### Other projects
