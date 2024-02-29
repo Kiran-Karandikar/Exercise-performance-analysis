@@ -84,6 +84,7 @@ Able to predict, one’s progression in terms of workout volume helps in fine tu
 
 
 
+
 ### Other projects
 
 Check out the other stuff I've worked upon.
